@@ -16,11 +16,12 @@ This Extension allows to customize EspoCRM login:
 
 After installation visit /#Admin/CustomLogin to upload a new background.
 
-![image](https://github.com/Kharg/custom-login/assets/32223252/e4b2d97a-09a5-4901-95d4-6f90819bed0b)
+![image](https://github.com/Kharg/custom-login/assets/32223252/39573321-62ef-498a-89dc-562deaf7cc02)
 
-![image](https://github.com/Kharg/custom-login/assets/32223252/fb45d18a-28be-4aaf-8832-71e1809015f3)
+![image](https://github.com/Kharg/custom-login/assets/32223252/1be9bf3b-05d8-415b-b26b-923e5e166b11)
 
-![image](https://github.com/Kharg/custom-login/assets/32223252/0e0a9e2c-d420-4600-9dbc-5c284b1feed0)
+![image](https://github.com/Kharg/custom-login/assets/32223252/7c6204f3-9f47-4a51-8641-42b3e0112b5a)
+
 
 
 
