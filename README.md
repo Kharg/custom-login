@@ -20,6 +20,9 @@ After installation visit /#Admin/CustomLogin to upload a new background.
 
 ![image](https://github.com/Kharg/custom-login/assets/32223252/fb45d18a-28be-4aaf-8832-71e1809015f3)
 
+![image](https://github.com/Kharg/custom-login/assets/32223252/0e0a9e2c-d420-4600-9dbc-5c284b1feed0)
+
+
 
 ## Requires
 
