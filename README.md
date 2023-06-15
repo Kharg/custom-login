@@ -23,12 +23,13 @@ After installation visit /#Admin/CustomLogin to upload a new background.
 ![image](https://github.com/Kharg/custom-login/assets/32223252/7c6204f3-9f47-4a51-8641-42b3e0112b5a)
 
 
-
-
 ## Requires
 
 - EspoCRM >= 7.2
 - PHP >= 7.2
+
+## Known Issues
+- Compatibility issues if used with themes that have their own login view (Dubas Dark/Light).
 
 ## Installation
 
