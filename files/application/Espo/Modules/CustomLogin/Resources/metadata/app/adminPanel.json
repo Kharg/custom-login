@@ -1,0 +1,20 @@
+{
+    "extSettings": {
+        "label": "Extensions Settings",
+        "itemList": [
+            "__APPEND__",
+            {
+                "url": "#Admin/CustomLogin",
+                "iconClass": "far fa-image",
+                "keywords": [
+                    "login",
+                    "background"
+                ],
+                "label": "CustomLoginTitle",
+                "description": "CustomLoginDescription",
+            	"recordView": "custom-login:views/admin/settings"
+            }
+        ],
+        "order": 110
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "fields": {
+        "CustomLoginBackground": "Background",
+        "CustomLoginPortalBackground": "Portal Background"
+    },
+    "tooltips": {
+        "CustomLoginBackground": "Login Background.",
+        "CustomLoginPortalBackground": "Portal Login Background."
+    }
+}

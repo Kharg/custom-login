@@ -1,0 +1,1 @@
+<h3><a href="#Admin">{{translate 'Administration'}}</a> &raquo {{translate 'CustomLoginTitle' scope='Admin'}}</h3>

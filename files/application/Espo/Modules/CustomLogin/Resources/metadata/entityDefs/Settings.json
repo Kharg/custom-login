@@ -1,0 +1,14 @@
+{
+    "fields": {
+    "CustomLoginBackground": {
+        "type": "image",
+        "global": true,
+        "tooltip": true
+    },
+    "CustomLoginPortalBackground": {
+        "type": "image",
+        "global": true,
+        "tooltip": true
+    }
+    }
+}

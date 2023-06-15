@@ -1,0 +1,10 @@
+{
+    "developerModeCssList": [
+        "__APPEND__",
+        "client/modules/custom-login/css/custom-login.css"
+    ],
+    "cssList": [
+        "__APPEND__",
+        "client/modules/custom-login/css/custom-login.css"
+    ]
+}

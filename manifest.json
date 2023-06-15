@@ -1,0 +1,11 @@
+{
+    "name": "Custom Login",
+    "version": "1.0.0",
+    "type": "extension",
+    "acceptableVersions": [
+        ">=7.2.0"
+    ],
+    "releaseDate": "15/06/23",
+    "author": "Andrew Fontana",
+    "description": "Custom Login View"
+}

@@ -1,0 +1,59 @@
+.login-page {
+    background-repeat: no-repeat !important;
+    background-position: relative !important;
+    background-size: cover !important;
+	max-width: initial !important;
+	align-items: center;
+    padding: 0;
+    margin: 0;
+	height: 100%;
+    position: absolute;
+	min-height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+body:not([data-navbar=side])>.login-footer {
+    position: absolute;
+    bottom: 0;
+    height: auto !important;
+}
+
+body[data-navbar=side]>.login-footer {
+    position: absolute;
+    top: auto;
+    bottom: -1px;
+    margin-left: auto !important;
+    left: 0;
+    right: 0;
+    width: 100%;
+    max-width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+#login .logo-container {
+    width: 100% !important;
+    height: 43px;
+}
+#login {
+    margin-top: 60px;
+}
+
+@media screen and (min-width: 768px) {
+body[data-navbar=side]>.login-footer {
+        position: absolute;
+        top: auto;
+        bottom: 0;
+    	margin-left: auto !important;
+		padding-top: auto !important;
+        left: 0;
+        right: 0;
+        width: 100%;
+        max-width: 100%;
+        display: flex;
+        align-items: center;
+}
+}
